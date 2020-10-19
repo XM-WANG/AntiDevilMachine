@@ -1,25 +1,25 @@
-# Anti Devil Machine.
+## Anti Devil Machine.
 
 > Allahu akbar！
 
-## Introduction
+### Introduction
 
 Fight with the evil teammates who consumed too much GPU resources!
 
 Take back what we should have!
 
-## Requirements
+### Requirements
 
 ```
 pip install pynvml
 ```
 
-## Quick Start
+### Quick Start
 
 ```
 python imin.py
 ```
 
-## API
+### API
 
 2 functions were developed. See function annotation for more details.
