@@ -17,7 +17,7 @@ pip install pynvml
 ### Quick Start
 
 ```
-python imin.py
+python main.py
 ```
 
 ### API
