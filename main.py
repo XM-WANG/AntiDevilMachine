@@ -1,7 +1,6 @@
 import torch
 from adm import generateBlock, listenEmptyGPU
 
-# def Abdicate(device,)
 
 if __name__ == "__main__":
     '''
